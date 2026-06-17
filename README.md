@@ -1,4 +1,4 @@
-###📉 Customer Churn Prediction — Telecom Dataset
+### 📉 Customer Churn Prediction — Telecom Dataset
 **Author:** Kukatla Ajay  
 **Tools:** Python, Pandas, Scikit-Learn, SMOTE, Matplotlib, Seaborn  
 **Model:** Random Forest Classifier  
