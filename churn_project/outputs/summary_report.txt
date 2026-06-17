@@ -1,0 +1,15 @@
+
+╔══════════════════════════════════════════════════════╗
+║         CUSTOMER CHURN PREDICTION - SUMMARY          ║
+║                   Kukatla Ajay                       ║
+╠══════════════════════════════════════════════════════╣
+║  Dataset    : 7,043 records × 21 features            ║
+║  Algorithm  : Random Forest (200 trees)              ║
+║  SMOTE      : Applied to balance class distribution  ║
+╠══════════════════════════════════════════════════════╣
+║  Accuracy   : 96.38%                              ║
+║  ROC-AUC    : 0.99                                 ║
+║  CV Score   : 0.99 ± 0.00                          ║
+╠══════════════════════════════════════════════════════╣
+║  Top Churn Driver : Contract Type (57% importance) ║
+╚══════════════════════════════════════════════════════╝
